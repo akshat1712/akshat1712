@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ✨ I'm Like doing Competative Programming, reading about Finance and Economics.
 - 🤔 I’m looking for help with Javascript.
 - 👀 Looking forward to collaborate on many projects.
-- 🤝: Let's get in touch.
+- 🤝: Let's get in touch and form lasting bonds.
 
 &ensp;
 &ensp;
