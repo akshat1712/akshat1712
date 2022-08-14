@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently a CSE 2<sup>nd</sup> year Undergraduate student at IIT Ropar.
+- 🔭 I’m currently a CSE 3<sup>nd</sup> year Undergraduate student at IIT Ropar.
 - 🌱 I’m currently learning MERN Stack and Financial Mathematics.
 - 💻 I'm currently proficient in C, C++, Python and Data Analytics.
 - ✨ I'm Like doing Competative Programming, reading about Finance and Economics.
