@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 
 
-## :trophy: My Github Stats <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat1712&show_icons=true&theme=highcontrast) <br>
+<!-- ## :trophy: My Github Stats <br> -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat1712&show_icons=true&theme=highcontrast) <br> -->
