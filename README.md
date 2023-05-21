@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a CSE 3<sup>nd</sup> year Undergraduate student at IIT Ropar.
-- 🌱 I’m currently learning MERN Stack and Financial Mathematics.
+- 🌱 I’m currently learning Machine Learning and Financial Mathematics.
 - 💻 I'm currently proficient in C, C++, Python and Data Analytics.
 - ✨ I'm Like doing Competative Programming, reading about Finance and Economics.
-- 🤔 I’m looking for help with Javascript & in life.
 - 👀 Looking forward to collaborate on many projects.
 - 🎗  Let's get in touch and form long lasting bonds.
 - 🤝 Do Visit my website to know me more: https://akshat1712.github.io/
