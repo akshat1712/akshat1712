@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I have graduated from IIT Ropar majoring in Computer Science and Engineering.
-- 🌱 I’m currently Financial Mathematics & Pragramatic Application.
+- 🔭 I graduated from IIT Ropar, majoring in Computer Science and Engineering.
+- 🌱 I’m currently learning Financial Mathematics & its programmatic applications.
 - 💻 I'm currently proficient in C, C++, Python, React.
 - ✨ I Like doing Competitive Programming and reading about Finance and Economics.
-- 👀 Looking forward to collaborating on many projects.
-- 🎗 Let's get in touch and form long-lasting bonds.
+- 👀 Looking forward to collaboration on various projects.
+- 🎗 Let's get in touch and form life long bonds.
 - 🤝 Do Visit my website to know me more: https://akshat1712.github.io/
 
 &ensp;
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <h3>Languages and Tools:</h3><hr>
 <p> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
