@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ✨ I Like doing Competitive Programming and reading about Finance and Economics.
 - 👀 Looking forward to collaboration on various projects.
 - 🎗 Let's get in touch and form life long bonds.
-- 🤝 Do Visit my website to know me more: https://akshat1712.github.io/
+- 🤝 Do Visit my website to know me more: https://akshat1712.github.io/Portfolio-Website/
 
 &ensp;
 &ensp;
