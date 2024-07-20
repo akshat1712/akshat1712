@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I graduated from IIT Ropar, majoring in Computer Science and Engineering.
 - 🌱 I’m currently learning Financial Mathematics & its programmatic applications.
-- 💻 I'm currently proficient in C, C++, Python, React.
+- 💻 I'm currently working in Oracle Analytics Division under Control Plane team.
 - ✨ I Like doing Competitive Programming and reading about Finance and Economics.
 - 👀 Looking forward to collaboration on various projects.
 - 🎗 Let's get in touch and form life long bonds.
